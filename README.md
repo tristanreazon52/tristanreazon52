@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**tristanreazon52/tristanreazon52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello there, I'm Tristan Reazon! 👋
+I’m an Information Technology student passionate about building efficient, user-focused systems and continuously expanding my technical skillset. I enjoy exploring how software and data work together to solve real-world problems, and I’m always eager to learn new tools, technologies, and best practices.
+#
+### Education
+* BS Information Technology
+  * New Era University
+  * 2024-Present
+#
+### Certifications
+* [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4b5323cb9eb2400f8db60ad38a897d89)
+#
+### Skillsets
+* *Programming:* Java
+* *Databases:* SQL, IBM DB2 Cloud
+* *Tools:* LucidChart, IntelliJ IDEA, Visual Studio Code, HTML
+#
+### Let's Connect
+* *Email:* Reazontristan00@gmail.com
+  
