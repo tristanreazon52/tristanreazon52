@@ -1,4 +1,4 @@
-# Hello there, I'm Tristan Reazon! 👋
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/614a0e6d-f11f-4b5a-a6c2-cf9a4af0c7aa" /># Hello there, I'm Tristan Reazon! 👋
 I’m an Information Technology student passionate about building efficient, user-focused systems and continuously expanding my technical skillset. I enjoy exploring how software and data work together to solve real-world problems, and I’m always eager to learn new tools, technologies, and best practices.
 #
 ### Education
@@ -8,6 +8,9 @@ I’m an Information Technology student passionate about building efficient, use
 #
 ### Certifications
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4b5323cb9eb2400f8db60ad38a897d89)
+* [Oracle Cloud Infrastructure Foundations Associate
+](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A80CCAE9072B53F83EFF3A5331BF0D2B937D9377B96EEB9D7CCE1CD4652B1826)
+
 #
 ### Skillsets
 * *Programming:* Java
