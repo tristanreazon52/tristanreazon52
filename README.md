@@ -10,6 +10,8 @@ I’m an Information Technology student passionate about building efficient, use
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4b5323cb9eb2400f8db60ad38a897d89)
 * [Oracle Cloud Infrastructure Foundations Associate
 ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A80CCAE9072B53F83EFF3A5331BF0D2B937D9377B96EEB9D7CCE1CD4652B1826)
+*[Data Management Learning1]
+*[Oracle Cloud Infrastructure Learning}
 
 #
 ### Skillsets
