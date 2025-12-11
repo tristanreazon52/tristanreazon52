@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/614a0e6d-f11f-4b5a-a6c2-cf9a4af0c7aa" /># Hello there, I'm Tristan Reazon! 👋
+Hello there, I'm Tristan Reazon! 👋
 I’m an Information Technology student passionate about building efficient, user-focused systems and continuously expanding my technical skillset. I enjoy exploring how software and data work together to solve real-world problems, and I’m always eager to learn new tools, technologies, and best practices.
 #
 ### Education
