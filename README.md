@@ -35,14 +35,5 @@ My journey in tech started when I took the **BS Information Technology** program
 **LinkedIn:** [LinkedIn Profile Link](https://www.linkedin.com/)  
 **Email:** Reazontristan00@gmail.com
 
----
 
-## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tristanreazon&show_icons=true&theme=radical)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanreazon&layout=compact&theme=radical)
